@@ -114,7 +114,7 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
-.skill-SQL {
+.skill-sql {
   background-image: url("img/icon-mysql.svg");
 }
 
@@ -170,7 +170,8 @@ body {
 }
 
 .page-footer {
-  padding: 50px 0px 0px 0px;
+  padding: 40px 0px;
+  margin-top: 50px;
   background-color: #260c26;
 }
 
